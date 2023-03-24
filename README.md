@@ -1,2 +1,3 @@
 # Stored-Procedure-Views-Database-Security-
-SP encryption, View permission
+create SP, encrypt all SP, set View permission
+Details: Report.pdf
